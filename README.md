@@ -1,5 +1,5 @@
 # jfocus
-JQuery 插件封装（轮播图）
+JQuery 插件封装（轮播图单图滚动）
 ``` bash
 用法：
 //轮播图
